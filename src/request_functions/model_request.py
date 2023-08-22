@@ -1,5 +1,5 @@
 import requests
-from tests.bim.config import (bim_url_global, MODEL_URL, bim_pk_global, file_pk_global,
+from tests.api_tests.config import (bim_url_global, MODEL_URL, bim_pk_global, file_pk_global,
                               bim_pk_global2, file_pk_global2, headers)
 
 class ModelRequest:
